@@ -1,9 +1,9 @@
-```
-**Sample project
+```ruby
+Sample project
 
-## Project
+Project
 
-### TTTT
+TTTT
 ```
 **This is bold text**
 
