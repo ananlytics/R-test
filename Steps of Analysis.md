@@ -48,4 +48,23 @@ Coefficients:
   ```
   
   ![12](https://user-images.githubusercontent.com/104814594/167106031-d70ec33e-a0e4-4597-8aff-9071bb40cd43.JPG)
+  
+  # Interpretation of above graphs: 
+  
+  ```ruby
+  1. Residuals: The residual data of the simple linear regression model is the difference between the observed
+  data of the dependent variable y and the fitted values ŷ
+  
+  2. Q-Q plots: These identify the quantiles in your sample data and plot them against the quantiles of
+  a theoretical distribution. In most cases the normal distribution is used, but a Q-Q plot can actually be created
+  for any theoretical distribution
+  
+  3. Scale Location: It takes the square root of the absolute value of standardized residuals instead of plotting the
+  residuals themselves. 
+  It checks homoscadasticity condition.
+  
+  4. Residuals vs. leverage plot: It is a type of diagnostic plot that allows us to identify influential observations
+  in a regression model.
+  
+  ```
 
