@@ -36,4 +36,16 @@ par(mfrow=c(2,2))
 plot(lm(carat~price, data=Dia))
 
 ```
+# Output
+
+```
+Summary
+
+Coefficients:
+(Intercept)        price  
+  0.3672972    0.0001095  
+  
+  ```
+  
+  ![12](https://user-images.githubusercontent.com/104814594/167106031-d70ec33e-a0e4-4597-8aff-9071bb40cd43.JPG)
 
