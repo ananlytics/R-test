@@ -25,8 +25,15 @@ lm(carat~price, data=Dia)
 ```
 # Output
 
+![11](https://user-images.githubusercontent.com/104814594/167105539-33d87e62-7abc-4564-acc5-388174a34155.JPG)
+
+## 3. Data modelling
+Using linear regression to find relationship within data.
+
 ```
-![11](https://user-images.githubusercontent.com/104814594/167105394-a1477f0d-bf58-46c2-870c-bce842222f1f.JPG)
+summary(lm(carat~price, data=Dia))
+par(mfrow=c(2,2))
+plot(lm(carat~price, data=Dia))
 
 ```
 
