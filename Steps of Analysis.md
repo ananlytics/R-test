@@ -52,6 +52,8 @@ Coefficients:
   # Interpretation of above graphs: 
   
   ```ruby
+  **Above graphs also test the Gauss-Markov conditions.
+  
   1. Residuals: The residual data of the simple linear regression model is the difference between the observed
   data of the dependent variable y and the fitted values ŷ
   
