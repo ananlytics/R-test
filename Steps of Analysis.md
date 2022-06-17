@@ -1,5 +1,5 @@
 # Three basic degrees of analysis
-## We are using Diamond Data set that records characteristics of individual diamonds and price.
+## We are using Diamond Data set that records characteristics of diamonds and their price.
 
 ## 1. Descriptive Analysis of Data.
 Using Diamonds dataset to find mean and median using a single line code.
