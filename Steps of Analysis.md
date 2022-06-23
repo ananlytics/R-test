@@ -40,7 +40,7 @@ plot(lm(carat~price, data=Dia))
 # Output
 
 ```
-Summary: Slope and Intercept give can give us equation if line generated.
+Summary: Slope and Intercept give can give us the equation of the line generated.
 
 Coefficients:
 (Intercept)        price  
