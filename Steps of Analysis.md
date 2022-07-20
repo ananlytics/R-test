@@ -2,7 +2,7 @@
 ## We are using Diamond Data set that records characteristics of diamonds and their price.
 
 ## 1. Descriptive Analysis of Data.
-Using Diamonds dataset to find mean and median using a single line code.
+We will  be using Diamonds dataset to find mean and median using a single line code.
 ```
 diamonds %>% summarise(mean_depth=mean(depth),median_depth=median(depth))
 
